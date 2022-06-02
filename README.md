@@ -7,3 +7,5 @@ git status
 git commit -m "message"
 git status
 git push
+
+and still I see no changes
